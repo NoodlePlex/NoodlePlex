@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m31nk0nt0@gmail.com
-- 😄 Pronouns: Male
+- Gender: Male
 - ⚡ Fun fact: The reason I joined Github is to test Github Copilot.
 
 <!---
