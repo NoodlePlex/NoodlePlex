@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoodlePlex
+- 👋 Hi, I’m NoodlePlex
 - 👀 I’m interested in creative coding projects
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
